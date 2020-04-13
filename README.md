@@ -1,5 +1,5 @@
 # student_manager
-
+一个简单的增删改查demo  mock模拟请求
 ## Project setup
 ```
 npm install
